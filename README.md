@@ -8,5 +8,5 @@ aditya.kumar001@stud.fh-dortmund.de
 ## Matrikel-Nr.
 7219675
 # Tasks
-Tasks 1-3 can be found in the individual file with the task number. 
-Additionally the entire vs code project file "Java_homework" is uploaded as well. 
+- Tasks 1-3 can be found in the individual file with the task number. 
+- Additionally the entire vs code project file "Java_homework" is uploaded as well. 
