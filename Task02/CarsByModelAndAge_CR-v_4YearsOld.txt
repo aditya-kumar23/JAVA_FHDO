@@ -1,0 +1,7 @@
+Make: Honda
+Model: CR-V
+Year: 2017
+Color: Blue
+Price: $17000.0
+Registration Number: LPD789
+

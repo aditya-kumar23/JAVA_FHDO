@@ -1,0 +1,7 @@
+Make: BMW
+Model: X1
+Year: 2016
+Color: Black
+Price: $40000.0
+Registration Number: UP16496
+

@@ -1,0 +1,21 @@
+Make: Toyota
+Model: Camry
+Year: 2018
+Color: Red
+Price: $18000.0
+Registration Number: ABC123
+
+Make: Toyota
+Model: Corolla
+Year: 2019
+Color: White
+Price: $19000.0
+Registration Number: GHI789
+
+Make: Toyota
+Model: Fortuner
+Year: 2018
+Color: Red
+Price: $20000.0
+Registration Number: ABZ387
+
